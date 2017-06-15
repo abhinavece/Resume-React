@@ -1,0 +1,122 @@
+{
+	"name": "Abhinav Singh",
+	"email": "singh09.abhinav@gmail.com",
+	"phone": "808-710-2325",
+	"image": "https://udemy-images.udemy.com/user/200_H/20772220_9910_2.jpg",
+	"website": "www.fb.com/abhinavece",
+	"twitter": "@abhinavece",
+	"linkedin": "linkedin.com/in/abhinavece",
+	"twitterURL": "https://twitter.com/abhinavece",
+	"github": "www.github.com/abhinavece",
+	"experiences" : [
+		{
+			"title" : "Full Stack Java Developer",
+			"period": "2015 - Present",
+			"company": "Wonderment Apps, Noida, Sector-62",
+			"companyURL": "http://wondermentapps.com",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		},
+		{
+			"title" : "Senior Software Engineer",
+			"period": "2014 - 2015",
+			"company": "Google, London",
+			"companyURL": "http://google.com",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+	"projects": [
+		{
+			"name":"Velocity",
+			"url": "http://developers.google.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://developers.google.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://developers.google.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://developers.google.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://developers.google.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "Core Java",
+			"percent": "95%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "Angular",
+			"percent": "30%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "React JS",
+			"percent": "70%"
+		},
+		{
+			"name": "Sketch & Photoshop",
+			"percent": "50%"
+		},
+		{
+			"name": "WordPress",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "B.Tech in Electronics and Communications Engineering",
+			"university": "National Institute of Technology, Patna",
+			"period": "2010 - 2014"
+		},
+		{
+			"degree": "Intermediate",
+			"university": "Rajendra College Chhapra",
+			"period": "2007 - 2009"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Profesional"
+		},
+		{
+			"name":"Hindi",
+			"details": "Native"
+		},
+		{
+			"name":"Bhojpuri",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Cricket",
+		"Movies",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
